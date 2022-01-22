@@ -30,7 +30,7 @@
 
 // HS frequency ranges
 #define VHF1_MIN  144000000
-#define VHF1_MAX  148000000
+#define VHF1_MAX  151000000
 #define VHF2_MIN  219000000
 #define VHF2_MAX  225000000
 #define UHF1_MIN  420000000
